@@ -1,0 +1,4 @@
+- hosts: default
+  become: yes
+  roles:
+    - ansible-role-python3-amzaon-linux

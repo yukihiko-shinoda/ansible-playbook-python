@@ -1,0 +1,3 @@
+[submodule "roles/ansible-role-python3-amzaon-linux"]
+	path = roles/ansible-role-python3-amzaon-linux
+	url = git@github.com:yukihiko-shinoda/ansible-role-python3-amzaon-linux.git
